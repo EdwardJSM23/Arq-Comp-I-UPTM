@@ -1,3 +1,10 @@
+---
+title: Instalar Windows
+layout: template
+filename: InstalacionWindows
+--- 
+
+
 ## Instalación de Windows
 Es fundamental evaluar los componentes del equipo al que se le va a instalar el sistema operativo, para así poder usar la versión más adecuada al ordenador o en su defecto, que la versión que deseemos instalar esté acorde a los requerimientos.
 Por lo tanto vamos a ver los requerimientos de los SO más comunes en la actualidad de Windows:
