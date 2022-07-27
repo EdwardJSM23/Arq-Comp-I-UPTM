@@ -6,7 +6,7 @@ Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos c
 ****
 #### Windows
       
-      [Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft. Cada familia atiende a un determinado sector de la industria informática. Las familias activas de Windows incluyen Windows NT y Windows IoT; estos pueden abarcar subfamilias (por ejemplo, Windows Server o Windows Embedded Compact) (Windows CE). Las familias desaparecidas de Windows incluyen Windows 9x, Windows Mobile y Windows Phone.
+   [Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft. Cada familia atiende a un determinado sector de la industria informática. Las familias activas de Windows incluyen Windows NT y Windows IoT; estos pueden abarcar subfamilias (por ejemplo, Windows Server o Windows Embedded Compact) (Windows CE). Las familias desaparecidas de Windows incluyen Windows 9x, Windows Mobile y Windows Phone.
     Microsoft introdujo un entorno operativo llamado Windows el 20 de noviembre de 1985, como un shell de sistema operativo gráfico para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario.][1]: https://en.wikipedia.org/wiki/Microsoft_Windows
     En la actualidad, Windows cuenta con una variedad de versiones de sistemas operativos los cuales son muy predominantes en el mercado, entre esos Sistemas Operativos se encuentran: 
     
@@ -19,7 +19,7 @@ Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos c
 ****
 #### Linux 
     
-    Linux es una familia de sistemas operativos de código abierto similares a Unix basados en el kernel de Linux, un kernel de sistema operativo lanzado por primera vez el 17 de septiembre de 1991 por Linus Torvalds. vLinux generalmente se empaqueta en una distribución de Linux. 
+   Linux es una familia de sistemas operativos de código abierto similares a Unix basados en el kernel de Linux, un kernel de sistema operativo lanzado por primera vez el 17 de septiembre de 1991 por Linus Torvalds. vLinux generalmente se empaqueta en una distribución de Linux. 
     Linux se desarrolló originalmente para computadoras personales basadas en la arquitectura Intel x86, pero desde entonces ha sido portado a más plataformas que cualquier otro sistema operativo. Debido al predominio de Android basado en Linux en los teléfonos inteligentes, Linux, incluido Android, tiene la mayor base de todos los sistemas operativos de propósito general, a partir de mayo de 2022. Aunque Linux, a partir de mayo de 2022, solo lo usa alrededor del 2.3 por ciento de las computadoras de escritorio, el Chromebook, que ejecuta Chrome OS basado en el kernel de Linux, domina los EE. UU. K –12 mercado educativo y representa casi el 20 por ciento de las ventas de portátiles de menos de $300 en los EE. UU. Linux es el sistema operativo líder en servidores (más del 96,4 % de los principales sistemas operativos de 1 millón de servidores web son Linux), lidera otros grandes sistemas de hierro, como las computadoras centrales, y es el único sistema operativo utilizado en las supercomputadoras TOP500 (desde noviembre de 2017, habiendo eliminado gradualmente a todos los competidores).
 
     
