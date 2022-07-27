@@ -2,7 +2,7 @@
   
 ### Sistemas Operativos
       
-      ![](images/Infografía.jpg)
+![](images/Infografía.jpg)
       
 Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
 ****
