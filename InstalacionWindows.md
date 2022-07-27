@@ -42,4 +42,26 @@ Los requisitos mínimos para poder instalar y ejecutar sin problemas Windows 10 
 -	Tarjeta gráfica compatible con DirectX 9.0.
 -	Pantalla con resolución mínima de 800×600.
 
+Sin embargo, desde la versión 2004 del sistema operativo (lanzada en primavera de 2020), Microsoft aumentó algunos de estos requisitos para garantizar que el SO funcionaba mejor en todo tipo de PCs. En concreto, se aumentó hasta los 32 GB el espacio disponible en el disco duro o SSD para instalar la versión de 64 bits.
+**Basaremos el proceso de instalación en el sistema operativo de Windows 10.**
+Podemos escoger entre las siguientes versiones del sistema operativo:
+- Home: Es la edición estándar, pensada para todos aquellos usuarios que, sin necesidades especiales, vayan a usar el PC en casa. Es más barata y cuenta con todo lo necesario para trabajar en el día a día y jugar.
+- Pro: La edición más completa pensada para entornos domésticos. Esta edición es más cara y está pensada para aquellos que van a usar el ordenador tanto para uso personal como para uso profesional. Tiene todas las funciones de la edición Home, además de otras herramientas avanzadas como Bitlocker, para el cifrado de discos, Windows Information Protection y el cliente de Escritorio Remoto para conectarnos a otros PCs.
+- Enterprise / Education Workstation: Estas son las ediciones pensadas para entornos de trabajo y entornos educativos. No solo son más caras que las dos anteriores, sino que solo se pueden comprar por lotes, y no están pensadas para usarlas en casa.
+También podemos encontrar otro tipo de conceptos que nos pueden llamar la atención, como:
+-	S. Un modo especial de seguridad y rendimiento en el que solo se permite la instalación de programas de la Microsoft Store.
+-	N/KN. Ediciones destinadas especialmente para la Unión Europea, Suiza y Corea del Sur donde no se incluyen algunos programas de Microsoft, como Windows Media Player o la app de Cámara.
+-	LTSC. Versiones para empresa de soporte extendido. Eliminan aplicaciones que se instalan por defecto, y reciben actualizaciones durante mucho más tiempo que las versiones estándar.
+
+####Proceso de instalación:
+Si tenemos instalado en nuestro ordenador Windows 7 o Windows 8.1, podemos actualizar al nuevo Windows 10 sin perder los datos y los programas instalados en nuestro ordenador a través de Windows Update. Sin embargo, el proceso de actualización no siempre sale bien y, en ocasiones, puede dejarnos el ordenador inservible e incluso hacer que nuestro Windows no funcione como es debido.
+**Por ello, siempre es recomendable realizar una instalación limpia, desde cero.**
+
+####Descargando Windows 10 y creando el USB:
+Para instalar Windows 10 desde cero, lo primero que debemos hacer es descargar Windows 10. Microsoft nos permitirá descargar directamente desde sus servidores una imagen ISO de la última versión del sistema operativo.
+Una vez descargada la imagen ISO de Windows 10, el siguiente paso será grabarla a un DVD o a una memoria USB. Para grabarla a un DVD, lo único que haremos será introducir el disco vacío en nuestro ordenador y pulsaremos sobre la imagen ISO de Windows 10 con el botón derecho para elegir la opción de grabar imagen.
+Microsoft también nos da la opción de descargar y grabar a un DVD directamente la imagen con la herramienta Media Creation Tool. Esta aplicación es gratuita y podemos descargarla desde la página web de Microsoft pulsando sobre «Descargar ahora la herramienta«.
+
+
+
 
