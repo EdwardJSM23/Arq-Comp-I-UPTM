@@ -1,10 +1,10 @@
 ## Arquitectura del Computador T1-T3
   
-  ### Sistemas Operativos:
+### Sistemas Operativos:
       
 En la presente página vamos a conocer un poco sobre los sistemas operativos más comunes como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
   
-  #### Windows: 
+#### Windows: 
       
       Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM. 
   
