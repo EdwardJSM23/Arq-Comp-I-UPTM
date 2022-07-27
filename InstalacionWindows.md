@@ -88,25 +88,71 @@ Lo siguiente que debemos hacer es introducir la memoria USB en el ordenador apag
 Cuando el sistema intente arrancar desde la memoria USB, lo primero que veremos será un mensaje que nos pedirá que pulsemos una tecla cualquiera para empezar con la instalación de Windows 10.
 1.	Pulsamos cualquier tecla, y empezará una ventana de carga durante la cual se cargará en la memoria todo lo necesario para arrancar el asistente de instalación.
 2.	Tras esta ventana de carga, que dura unos segundos, veremos la ventana inicial del asistente de instalación de Windows 10.
-3.	En esta ventana debemos configurar el idioma de nuestro sistema operativo, el formato de hora y moneda y el tipo de teclado que vamos a utilizar. Pulsamos sobre «Siguiente» y en la nueva ventana que aparece pulsaremos sobre «Instalar ahora«.
-4.	El siguiente paso que nos pedirá el asistente será introducir el número de licencia de nuestro Windows. Si la licencia se encuentra grabada en la BIOS/UEFI de nuestro ordenador, esta ventana no la veremos. De lo contrario, si la tenemos a mano podemos introducirla o, si no, pulsamos sobre «No tengo clave de producto» para continuar sin dicha licencia.
+3.	En esta ventana debemos configurar el idioma de nuestro sistema operativo, el formato de hora y moneda y el tipo de teclado que vamos a utilizar. Pulsamos sobre **«Siguiente»** y en la nueva ventana que aparece pulsaremos sobre **«Instalar ahora«**.
+4.	El siguiente paso que nos pedirá el asistente será introducir el número de licencia de nuestro Windows. Si la licencia se encuentra grabada en la BIOS/UEFI de nuestro ordenador, esta ventana no la veremos. De lo contrario, si la tenemos a mano podemos introducirla o, si no, pulsamos sobre **«No tengo clave de producto»** para continuar sin dicha licencia.
 5.	A continuación, el asistente nos preguntará por la versión de Windows 10 que queremos instalar. Debemos elegir la que corresponda a nuestra licencia para evitar problemas.
 6.	Pulsamos de nuevo sobre Siguiente y aparecerán los términos de licencia, los cuales aceptaremos para continuar.
 7.	La siguiente ventana es una de las más importantes. En ella elegiremos el tipo de instalación que queremos:
-+	Si queremos actualizar Windows y no perder los datos ni aplicaciones, elegiremos «Actualización».
-+	Para una instalación limpia, elegiremos «Personalizada».
++	Si queremos actualizar Windows y no perder los datos ni aplicaciones, elegiremos **«Actualización»**.
++	Para una instalación limpia, elegiremos **«Personalizada»**.
 8.	Seleccionamos la segunda opción, personalizada, y veremos un nuevo paso en el asistente donde elegir la partición del disco duro donde instalaremos Windows.
-9.	Si queremos crear particiones, pulsaremos sobre «Nuevo» y configuraremos el espacio que queremos utilizar para nuestro Windows. Si no hacemos nada, el asistente utilizará automáticamente todo el espacio para instalar Windows (y crear la partición de recuperación de 500 MB). En la segunda imagen podemos ver las particiones que crea por defecto Windows para poder arrancar y funcionar.
-10.	Después de formatear para instalar Windows 10, pulsamos sobre «Siguiente» y comenzará el proceso de instalación. Durante este proceso se llevarán a cabo una serie de tareas: 
+9.	Si queremos crear particiones, pulsaremos sobre **«Nuevo»** y configuraremos el espacio que queremos utilizar para nuestro Windows. Si no hacemos nada, el asistente utilizará automáticamente todo el espacio para instalar Windows (y crear la partición de recuperación de 500 MB). En la segunda imagen podemos ver las particiones que crea por defecto Windows para poder arrancar y funcionar.
+10.	Después de formatear para instalar Windows 10, pulsamos sobre **«Siguiente»** y comenzará el proceso de instalación. Durante este proceso se llevarán a cabo una serie de tareas: 
 +	Copia de todos los archivos de instalación al disco duro.
 +	Preparar los archivos para la instalación.
 +	Instalar características de Windows.
 +	Instalar actualizaciones incluidas en el medio se instalación.
 +	Finalizar instalación.
-+
+
 11. Debemos esperar a que finalice el proceso de instalación. Durante el cual, el ordenador se reiniciará varias veces y, además, veremos distintas fases, tanto del asistente de instalación como de la configuración inicial de nuestro Windows 10
 
 Al finalizar con los procesos de configuración del ordenador procederemos a instalar los drivers pertinentes para su funcionamiento.
+
+### ¿Qué son los drivers en un pc?
+
+Un driver es un pequeño software que permite que el sistema operativo pueda interaccionar con un periférico o alguno de los componentes hardware de nuestro ordenador. Por lo tanto, podríamos decir que se encarga de hacer de enlace entre el propio sistema y el hardware o periféricos conectados.
+Los drivers o controladores contienen información necesaria para que el sistema pueda saber qué tenemos conectados a nuestro equipo, cómo llegar hasta él para manejarlo o controlarlo, cuáles son sus capacidades, etc. Por lo tanto, es un elemento muy importante para que todo funcione correctamente en nuestro equipo.
+Tipos de drivers o controladores
+En función del hardware, existen pequeños softwares que controlan los componentes en el sistema operativo. Básicamente, le dan instrucciones de cómo funcionar. Por esto mismo, es importante conocer cuáles son los tipos que no podemos encontrar en todo PC. Para ello, y para que se pueda tener una visión de manera general de los que veremos, lo cierto es que podemos identificar estos tipos:
+
+-	Drivers de tarjetas gráfica o de vídeo.
+-	Drivers de audio.
+-	Drivers de tarjetas de red (Lan, Ethernet o WiFi).
+-	Drivers de USB.
+-	Drivers de escáneres o impresoras.
+-	Drivers de chipset.
+-	Drivers de la BIOS.
+-	Drivers de ratones y teclados.
+-	Drivers de webcam.
+
+En el propio sistema operativo Windows 10 –y versiones anteriores- se puede encargar de descargar los drivers del ordenador. Pero existen limitaciones en este sistema, y están en que el sistema operativo y su sistema de actualizaciones únicamente se encargan de la gestión de los drivers de algunos componentes de hardware. Para algunos otros, como los de la tarjeta gráfica, hay que recurrir a herramientas de terceros, o ir directamente a la página web del fabricante. Sea como fuere, te contamos cómo se pueden descargar e instalar los drivers directamente desde Windows 10.
+Si esto no fuera suficiente, puedes tratar de hacer la operación por ti mismo. Por tanto, cuando hayas pinchado con el botón derecho, pueden optar por deshabilitar el componente conflictivo y probar a habilitarlo más tarde. Asimismo, si eliges la opción desinstalar el dispositivo estarás cortando por lo sano. Esto hará que se borren completamente los drivers de este elemento y, cuando Windows lo vuelva a instalar desde cero, el problema seguramente se haya corregido.
+Windows 10 tiene capacidad para descargar e instalar los drivers, aunque no todos. Y para aprovechar su sistema, podemos entrar en el Administrador de dispositivos, por ejemplo, usando el cuadro de búsqueda de la barra de tareas. Dentro del Administrador de dispositivos veremos un listado con todos los componentes de hardware y periféricos detectados por el ordenador y, si existe algún problema, una señal de peligro en color amarillo aparecerá marcando el dispositivo, hardware o periférico que está generando algún tipo de conflicto.
+Dentro de este listado del Administrador de tareas es donde podemos hacer doble clic en cualquier sección para desplegar todos los componentes relacionados. Y encima de cualquiera de ellos, si hacemos clic derecho y pulsamos sobre Actualizar controlador, directamente el sistema operativo se encargará de ello. Únicamente nos faltaría, en la ventana que se abrirá a continuación, seleccionar la opción ‘Buscar software de control actualizado automáticamente’ para que, efectivamente, Windows 10 se encargue de encontrar, descargar e instalar los últimos drivers disponibles para ese componente.
+Descargar e instalar drivers sin conexión a Internet
+En tanto que Windows 10 cuenta con sus propios drivers preinstalados, aunque genéricos y solo para algunos componentes, nada más instalar el sistema operativo en un ordenador se analizarán los componentes de hardware y se instalarán –de forma local, sin conexión de Red- los drivers que sea posible. No obstante, hay otras utilidades para poder instalar drivers en ordenadores con Windows 10 en caso de que no tengamos conexión a Internet.
+Evidentemente, para descargar esta utilidad y utilizarla en un ordenador sin conexión a Internet tendremos que usar otro ordenador con antelación, que sí tenga conexión a Internet, y con el cual guardaremos este programa en alguna unidad de almacenamiento externo como pueda ser una memoria USB. El programa en cuestión es DriverPack, que es gratis, seguro, para todos los dispositivos y cuenta con un enorme catálogo de drivers actualizados a la última versión. Sin duda, es una de las mejores opciones que tienes más allá de las propias opciones de tu sistema operativo.
+
+### Actualizar drivers con Windows 10
+
+En ordenadores con sistema operativo Windows 10, para actualizar drivers del ordenador tienes que abrir Configuración y recurrir a Windows Update o desinstalar la aplicación. Cada una de estas dos opciones se realiza de forma diferente, pero las dos son muy fáciles de realizar, así que ce comentamos cómo actualizar controladores de forma automática.
+Con Windows Update
+En el primer caso, puedes hacerlo desde el cuadro de búsqueda de la barra de tareas y, desde aquí, tendrás que abrir Actualización y seguridad. Una vez aquí, en la barra lateral izquierda tendremos que seleccionar ‘Windows Update’ y buscar actualizaciones. O, en caso de que haya alguna disponible, pulsar sobre la opción Instalar ahora.
+De hecho, una buena forma de actualizar los drivers de tu ordenador es esta, con la que se harán las actualizaciones más críticas. Si tienes las automáticas, tu ordenador te avisará cuando haya una nueva. Si no es así, o quieres comprobar si hay algo que actualizar, solo tienes que ir a esta opción de Windows y buscar nuevas actualizaciones. Para ello, tendrás que seguir una serie de pasos desde la configuración del ordenador. Concretamente, esto es lo que deberás hacer:
+
+-	En primer lugar, tendrás que ir a Configuración.
+-	Desde allí, irás a actualizaciones y seguridad.
+-	Si te aparece que todo está actualizado no te fíes porque son otro tipo de actualizaciones.
+-	Tendrás que ir más abajo para ver lo nuevo.
+-	Concretamente en actualizaciones opcionales.
+-	Te aparecerán allí las de los controladores y otras actualizaciones categorizadas, de manera que puedes conocer cuáles son las que hay.
+-	También puedes ver las anteriores desde el historial.
+-	Una vez que aceptes hacer una actualización de este tipo no hay marcha atrás, lo que sí sucede con otras, aunque es lo más seguro es llevarlas a cabo para mantener el mejor funcionamiento de tu equipo en todo momento.
+-	Solo tienes que seleccionar las que quieres instalar, activar la casilla y dar a aceptar.
+No obstante, debes tener en cuenta que puede que no haya porque no suelen verse con frecuencia. Si has instalado uno te informará cuando lo haya hecho, recuerda reiniciar para que vaya correctamente. Esta es una de las soluciones a las que puedes recurrir para actualizarlos, aunque si te interesa alguna de las anteriores deberás seguir los pasos correspondientes. Aprovecha para actualizar el sistema operativo, ya que es importante que reciba todas las actualizaciones para mejorar problemas de seguridad y funcionamiento.
+
+
+
 
 
 
