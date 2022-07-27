@@ -1,3 +1,10 @@
+---
+title: Página principal
+layout: template
+filename: index
+--- 
+
+
 ## Arquitectura del Computador T1-T3
   
 ### Sistemas Operativos
