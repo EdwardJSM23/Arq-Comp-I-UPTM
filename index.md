@@ -1,11 +1,12 @@
 ## Arquitectura del Computador T1-T3
   
 ### Sistemas Operativos
+
+Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
+***
       
 ![](images/Infografía.jpg)
       
-Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
-****
 #### Windows
       
    Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft. Cada familia atiende a un determinado sector de la industria informática. Las familias activas de Windows incluyen Windows NT y Windows IoT; estos pueden abarcar subfamilias (por ejemplo, Windows Server o Windows Embedded Compact) (Windows CE). Las familias desaparecidas de Windows incluyen Windows 9x, Windows Mobile y Windows Phone.
