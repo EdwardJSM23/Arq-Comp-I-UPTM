@@ -22,6 +22,8 @@ Por lo tanto vamos a ver los requerimientos de los SO más comunes en la actuali
 -	Windows XP Mode requiere un 1 GB de RAM adicional y 15 GB adicionales de espacio en disco duro disponible.
 -	La música y el sonido requieren salida de audio
 
+***
+
 ### Requisitos de Windows 8: 
 
 Con carácter general, cualquier equipo capaz de ejecutar Windows Vista puede ejecutar Windows 8.
@@ -32,6 +34,8 @@ Con carácter general, cualquier equipo capaz de ejecutar Windows Vista puede ej
 -	Hardware gráfico: compatible con controlador WDDM y Direct X versión 9.
 -	Para arranque seguro se necesita un firmware compatible con UEFI v2.3.1 Errata B
 -	Conexión a Internet para determinadas funciones, como las cuentas en línea.
+
+***
 
 ### Requisitos de Windows 10:
 
@@ -53,11 +57,11 @@ También podemos encontrar otro tipo de conceptos que nos pueden llamar la atenc
 -	N/KN. Ediciones destinadas especialmente para la Unión Europea, Suiza y Corea del Sur donde no se incluyen algunos programas de Microsoft, como Windows Media Player o la app de Cámara.
 -	LTSC. Versiones para empresa de soporte extendido. Eliminan aplicaciones que se instalan por defecto, y reciben actualizaciones durante mucho más tiempo que las versiones estándar.
 
-####Proceso de instalación:
+###Proceso de instalación:
 Si tenemos instalado en nuestro ordenador Windows 7 o Windows 8.1, podemos actualizar al nuevo Windows 10 sin perder los datos y los programas instalados en nuestro ordenador a través de Windows Update. Sin embargo, el proceso de actualización no siempre sale bien y, en ocasiones, puede dejarnos el ordenador inservible e incluso hacer que nuestro Windows no funcione como es debido.
 **Por ello, siempre es recomendable realizar una instalación limpia, desde cero.**
 
-####Descargando Windows 10 y creando el USB:
+###Descargando Windows 10 y creando el USB:
 Para instalar Windows 10 desde cero, lo primero que debemos hacer es descargar Windows 10. Microsoft nos permitirá descargar directamente desde sus servidores una imagen ISO de la última versión del sistema operativo.
 Una vez descargada la imagen ISO de Windows 10, el siguiente paso será grabarla a un DVD o a una memoria USB. Para grabarla a un DVD, lo único que haremos será introducir el disco vacío en nuestro ordenador y pulsaremos sobre la imagen ISO de Windows 10 con el botón derecho para elegir la opción de grabar imagen.
 Microsoft también nos da la opción de descargar y grabar a un DVD directamente la imagen con la herramienta Media Creation Tool. Esta aplicación es gratuita y podemos descargarla desde la página web de Microsoft pulsando sobre «Descargar ahora la herramienta«.
