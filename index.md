@@ -2,7 +2,7 @@
   
   ### Sistemas Operativos:
       
-      En la presente página vamos a conocer un poco sobre los sistemas operativos más comunes como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
+En la presente página vamos a conocer un poco sobre los sistemas operativos más comunes como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
   
 You can use the [editor on GitHub](https://github.com/EdwardJSM23/Arq-Comp-I-UPTM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
