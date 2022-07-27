@@ -4,6 +4,10 @@
       
 En la presente página vamos a conocer un poco sobre los sistemas operativos más comunes como lo son Windows y Linux, también conoceremos el proceso de instalación de cada uno de ellos.
   
+  #### Windows: 
+      
+      Windows es el nombre de una familia de distribuciones de software para PC, servidores, sistemas empotrados y antiguamente teléfonos inteligentes desarrollados y vendidos por Microsoft y disponibles para múltiples arquitecturas, tales como x86, x86-64 (x64) y ARM. 
+  
 You can use the [editor on GitHub](https://github.com/EdwardJSM23/Arq-Comp-I-UPTM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
