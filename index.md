@@ -6,8 +6,8 @@ Vamos a conocer un poco sobre los sistemas operativos con los que trabajaremos c
 ****
 #### Windows
       
-   [Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft. Cada familia atiende a un determinado sector de la industria informática. Las familias activas de Windows incluyen Windows NT y Windows IoT; estos pueden abarcar subfamilias (por ejemplo, Windows Server o Windows Embedded Compact) (Windows CE). Las familias desaparecidas de Windows incluyen Windows 9x, Windows Mobile y Windows Phone.
-    Microsoft introdujo un entorno operativo llamado Windows el 20 de noviembre de 1985, como un shell de sistema operativo gráfico para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario.][1]: https://en.wikipedia.org/wiki/Microsoft_Windows
+   Windows es un grupo de varias familias de sistemas operativos gráficos patentados desarrollados y comercializados por Microsoft. Cada familia atiende a un determinado sector de la industria informática. Las familias activas de Windows incluyen Windows NT y Windows IoT; estos pueden abarcar subfamilias (por ejemplo, Windows Server o Windows Embedded Compact) (Windows CE). Las familias desaparecidas de Windows incluyen Windows 9x, Windows Mobile y Windows Phone.
+    Microsoft introdujo un entorno operativo llamado Windows el 20 de noviembre de 1985, como un shell de sistema operativo gráfico para MS-DOS en respuesta al creciente interés en las interfaces gráficas de usuario.
     En la actualidad, Windows cuenta con una variedad de versiones de sistemas operativos los cuales son muy predominantes en el mercado, entre esos Sistemas Operativos se encuentran: 
     
     - Windows Vista
