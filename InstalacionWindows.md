@@ -57,14 +57,26 @@ También podemos encontrar otro tipo de conceptos que nos pueden llamar la atenc
 -	N/KN. Ediciones destinadas especialmente para la Unión Europea, Suiza y Corea del Sur donde no se incluyen algunos programas de Microsoft, como Windows Media Player o la app de Cámara.
 -	LTSC. Versiones para empresa de soporte extendido. Eliminan aplicaciones que se instalan por defecto, y reciben actualizaciones durante mucho más tiempo que las versiones estándar.
 
-###Proceso de instalación:
+#### Proceso de instalación:
 Si tenemos instalado en nuestro ordenador Windows 7 o Windows 8.1, podemos actualizar al nuevo Windows 10 sin perder los datos y los programas instalados en nuestro ordenador a través de Windows Update. Sin embargo, el proceso de actualización no siempre sale bien y, en ocasiones, puede dejarnos el ordenador inservible e incluso hacer que nuestro Windows no funcione como es debido.
 **Por ello, siempre es recomendable realizar una instalación limpia, desde cero.**
 
-###Descargando Windows 10 y creando el USB:
+#### Descargando Windows 10 y creando el USB:
 Para instalar Windows 10 desde cero, lo primero que debemos hacer es descargar Windows 10. Microsoft nos permitirá descargar directamente desde sus servidores una imagen ISO de la última versión del sistema operativo.
 Una vez descargada la imagen ISO de Windows 10, el siguiente paso será grabarla a un DVD o a una memoria USB. Para grabarla a un DVD, lo único que haremos será introducir el disco vacío en nuestro ordenador y pulsaremos sobre la imagen ISO de Windows 10 con el botón derecho para elegir la opción de grabar imagen.
-Microsoft también nos da la opción de descargar y grabar a un DVD directamente la imagen con la herramienta Media Creation Tool. Esta aplicación es gratuita y podemos descargarla desde la página web de Microsoft pulsando sobre «Descargar ahora la herramienta«.
+Microsoft también nos da la opción de descargar y grabar a un DVD directamente la imagen con la herramienta Media Creation Tool. Esta aplicación es gratuita y podemos descargarla desde la página web de Microsoft pulsando sobre **«Descargar ahora la herramienta«**.
+
+1.	Aceptamos los términos de licencia y continuamos. El programa se preparará para la creación del medio de instalación.
+2.	Tras unos segundos, el programa nos preguntará qué queremos hacer, si actualizar nuestro equipo (si no tenemos la última versión de Windows 10 instalada) o crear un medio de instalación para otro equipo. En nuestro caso seleccionamos esta segunda opción para continuar.
+3.	En el siguiente paso podemos personalizar el medio de instalación de nuestro Windows. Podemos, por ejemplo, cambiar el idioma, la edición o la arquitectura del Windows que vamos a instalar. Por defecto nos cargará la configuración actual de nuestro sistema.
+
+4.	En el siguiente paso podemos personalizar el medio de instalación de nuestro Windows. Podemos, por ejemplo, cambiar el idioma, la edición o la arquitectura del Windows que vamos a instalar. Por defecto nos cargará la configuración actual de nuestro sistema.
+5.	Continuamos con el asistente y, en el siguiente paso, nos preguntará qué tipo de medio vamos a usar. Desde aquí podemos también descargar la ISO, igual que hemos visto antes, desde los servidores de Microsoft o crear una unidad Flash USB para instalar Windows 10 desde ella.
+6.	Seleccionamos esta primera opción y pulsamos Siguiente para continuar. En el siguiente paso, el asistente buscará las unidades USB conectadas a nuestro ordenador y nos las mostrará en la lista. Elegiremos la que corresponda a la memoria USB donde copiaremos Windows 10 (con cuidado, ya que el proceso borrará todos los datos ya existentes) y pulsaremos sobre «Siguiente» para comenzar con el proceso.
+7.	El asistente descargará la última versión de Windows 10 desde los servidores de Microsoft y la copiará a la memoria USB escogida para convertirla en una memoria de instalación. Este proceso puede tardar varios minutos, por lo que esperamos con calma a que finalice.
+8.	Una vez finalice todo el proceso, ya tendremos nuestra memoria USB lista para poder instalar Windows 10 desde ella en nuestro ordenador. La extraemos del ordenador y nos preparamos para continuar.
+
+
 
 
 
