@@ -12,14 +12,16 @@
   </head>
   
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Instalación de Windows y Linux</h1>
-      <h2 class="project-tagline"></h2>
-      {% for page in site.pages %}
-        <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
-      {% endfor %}
-      <a href="https://github.com/EdwardJSM23/Arq-Comp-I-UPTM" class="btn">Ver en GitHub</a>
-    </section>
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+            <h1 class="project-name">Instalación de Windows y Linux</h1>
+            <h2 class="project-tagline"></h2>
+            {% for page in site.pages %}
+                <a href= {{ page.filename }} class="btn">{{ page.title }}</a>
+            {% endfor %}
+            <a href="https://github.com/EdwardJSM23/Arq-Comp-I-UPTM" class="btn">Ver en GitHub</a>
+        </header>
+    </div>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
