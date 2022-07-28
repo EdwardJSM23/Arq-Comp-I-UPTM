@@ -40,21 +40,21 @@ Linux Mint está disponible en 4 versiones:
 - Cinnamon es el entorno gráfico propio de Linux Mint y es un fork de GNOME.
 -	Es elegante y funcional.
 
-### MATE
+#### MATE
 -	MATE es otro fork de GNOME y tiene una imagen casi exacta a la que usaba Ubuntu hasta la llegada de Unity.
 -	Es ligero, o debería serlo al usar un entorno gráfico que Ubuntu dejó en 2010.
 -	Especialmente indicado para los que prefieren un entorno gráfico clásico.
 
-### Xfce
+#### Xfce
 -	Xfce es aún más ligero que MATE. En Linux Mint es muy elegante.
 -	Es la mejor opción para los PCs de bajos recursos.
 
-## KDE
+#### KDE
 -	KDE es uno de los entornos gráficos más completos.
 -	Ofrece muchas opciones y tiene una imagen muy atractiva.
 -	Está más indicado para ordenadores más modernos. Personalmente diría que me encanta KDE, pero que no suelo usarlo en mi portátil porque suelo ver más avisos de errores de los que me gustaría ver.
 
-#### Pasos a seguir para instalar Linux Mint desde un USB
+### Pasos a seguir para instalar Linux Mint desde un USB
 1.	Vamos a la web oficial y descargamos la imagen ISO del sistema operativo. Podemos elegir entre descargarlo directo de la web o hacerlo usando un cliente para descargar archivos .torrent. 
 2.	A continuación tenemos que crear el USB bootable. Hay muchísimas herramientas disponibles para cualquier sistema operativo, pero podemos usar UNetbootin porque es libre y está disponible para Linux, Mac y Windows. Además, su uso es muy sencillo:
 +	Si no lo tenemos instalado, lo instalamos. En Linux podemos hacerlo usando el comando «sudo apt install unetbootin» sin las comillas.
