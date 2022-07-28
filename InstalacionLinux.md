@@ -11,12 +11,12 @@ Por lo tanto vamos a ver los requerimientos de los SO más comunes en la actuali
 
 ***
 ### Requisitos del sistema de Ubuntu 20.04 
-•	Procesador: De doble núcleo a 2 GHz o Superior
-•	RAM: 4 GB (pero con 1 GB puede funcionar)
-•	Disco Duro: 25 GB libres serán necesarios
-•	Pantalla: 9″ con resolución HD (720p) o superior.
-•	Conexión a Internet: Para actualizaciones durante la instalación
-•	Accesorio de CD o DVD para la instalación
+-	Procesador: De doble núcleo a 2 GHz o Superior
+-	RAM: 4 GB (pero con 1 GB puede funcionar)
+-	Disco Duro: 25 GB libres serán necesarios
+-	Pantalla: 9″ con resolución HD (720p) o superior.
+-	Conexión a Internet: Para actualizaciones durante la instalación
+-	Accesorio de CD o DVD para la instalación
 
 ***
 ### Requisitos del sistema OpenSuse
@@ -27,10 +27,10 @@ Por lo tanto vamos a ver los requerimientos de los SO más comunes en la actuali
 
 ***
 ### Requisitos del sistema de Linux Mint
-•	512MB de RAM. Se recomienda 1GB para un uso más fluido.
-•	9GB de RAM. Se recomiendan 20GB si se quieren guardar archivos.
-•	Resolución 1024×768.
-•	La versión de 64-bits puede funcionar en modo BIOS o UEFI, mientras que la de 32-bits sólo iniciará en modo BIOS.
+-	512MB de RAM. Se recomienda 1GB para un uso más fluido.
+-	9GB de RAM. Se recomiendan 20GB si se quieren guardar archivos.
+-	Resolución 1024×768.
+-	La versión de 64-bits puede funcionar en modo BIOS o UEFI, mientras que la de 32-bits sólo iniciará en modo BIOS.
 
 **Basaremos el proceso de instalación en el sistema operativo de Linux Mint.**
 
